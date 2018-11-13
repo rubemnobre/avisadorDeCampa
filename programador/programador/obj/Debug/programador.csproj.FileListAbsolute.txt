@@ -1,0 +1,31 @@
+Z:\Projeto ED\programador\programador\bin\Debug\programador.exe.config
+Z:\Projeto ED\programador\programador\bin\Debug\programador.exe
+Z:\Projeto ED\programador\programador\bin\Debug\programador.pdb
+Z:\Projeto ED\programador\programador\obj\Debug\programador.csprojResolveAssemblyReference.cache
+Z:\Projeto ED\programador\programador\obj\Debug\programador.Form1.resources
+Z:\Projeto ED\programador\programador\obj\Debug\programador.Properties.Resources.resources
+Z:\Projeto ED\programador\programador\obj\Debug\programador.csproj.GenerateResource.Cache
+Z:\Projeto ED\programador\programador\obj\Debug\programador.exe
+Z:\Projeto ED\programador\programador\obj\Debug\programador.pdb
+C:\Users\zara\Documents\programador\programador\bin\Debug\programador.exe.config
+C:\Users\zara\Documents\programador\programador\bin\Debug\programador.exe
+C:\Users\zara\Documents\programador\programador\bin\Debug\programador.pdb
+C:\Users\zara\Documents\programador\programador\obj\Debug\programador.csprojAssemblyReference.cache
+C:\Users\zara\Documents\programador\programador\obj\Debug\programador.Form1.resources
+C:\Users\zara\Documents\programador\programador\obj\Debug\programador.Properties.Resources.resources
+C:\Users\zara\Documents\programador\programador\obj\Debug\programador.sync.resources
+C:\Users\zara\Documents\programador\programador\obj\Debug\programador.csproj.GenerateResource.cache
+C:\Users\zara\Documents\programador\programador\obj\Debug\programador.csproj.CoreCompileInputs.cache
+C:\Users\zara\Documents\programador\programador\obj\Debug\programador.exe
+C:\Users\zara\Documents\programador\programador\obj\Debug\programador.pdb
+Z:\Projeto ED\programador\programador\obj\Debug\programador.sync.resources
+C:\Users\zara\Downloads\Projeto ED\programador\programador\bin\Debug\programador.exe.config
+C:\Users\zara\Downloads\Projeto ED\programador\programador\bin\Debug\programador.exe
+C:\Users\zara\Downloads\Projeto ED\programador\programador\bin\Debug\programador.pdb
+C:\Users\zara\Downloads\Projeto ED\programador\programador\obj\Debug\programador.csprojAssemblyReference.cache
+C:\Users\zara\Downloads\Projeto ED\programador\programador\obj\Debug\programador.Form1.resources
+C:\Users\zara\Downloads\Projeto ED\programador\programador\obj\Debug\programador.Properties.Resources.resources
+C:\Users\zara\Downloads\Projeto ED\programador\programador\obj\Debug\programador.csproj.GenerateResource.cache
+C:\Users\zara\Downloads\Projeto ED\programador\programador\obj\Debug\programador.csproj.CoreCompileInputs.cache
+C:\Users\zara\Downloads\Projeto ED\programador\programador\obj\Debug\programador.exe
+C:\Users\zara\Downloads\Projeto ED\programador\programador\obj\Debug\programador.pdb
