@@ -28,7 +28,7 @@ namespace programador
             string[] nome =
             { "bio", "ef ", "el2", "ed ", "e2 ", "fil", "fis",
               "geo", "his", "mat", "qui", "soc", "por", "art",
-              "ing", "ons",
+              "ing", "ons", "tec1", "tec2", "tec3", "tec4", "tec5",
             };
             for (int i = 0;i < 7; i++)
             {
@@ -60,52 +60,7 @@ namespace programador
                 comboBox1.Items.Add(str);
             }
         }
-        private void button1_Click(object sender, EventArgs e)
-        {
-            porta = comboBox1.Text;
-            int dia = Convert.ToInt32(DateTime.Now.DayOfWeek);
-            if(dia == 0)
-            {
-                dia = 7;
-            }
-            int hora = DateTime.Now.Hour;
-            long min  = DateTime.Now.Minute;
-            long minuto = hora * 60 + min;
-            long millis = 0;
-            try
-            {
-                millis = minuto * 60000 + (DateTime.Now.Second + Convert.ToInt32(textBox1.Text)) * 1000 + DateTime.Now.Millisecond;
-            }
-            catch
-            {
-                millis = minuto * 60000 + (DateTime.Now.Second) * 1000 + DateTime.Now.Millisecond;
-            }
-            bool good = false;
-            label5.Text = "";
-            try
-            {
-                SerialPort arduino = new SerialPort(porta, 9600);
-                arduino.ReadTimeout = 200;
-                arduino.DtrEnable = false;
-                arduino.Open();
-                arduino.Write("t");
-                arduino.ReadExisting();
-                arduino.Write(Convert.ToString(millis)+"~");
-                arduino.Write(Convert.ToString(dia)+"~");
-                arduino.Close();
-                good = true;
-            }
-            catch {
-            }
-            if (good)
-            {
-                label5.Text = "Pronto!";
-            }
-            else
-            {
-                label5.Text = "Erro!";
-            }
-        }
+        
 
         private void button3_Click(object sender, EventArgs e)
         {

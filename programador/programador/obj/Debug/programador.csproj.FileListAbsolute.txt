@@ -18,7 +18,6 @@ C:\Users\zara\Documents\programador\programador\obj\Debug\programador.csproj.Gen
 C:\Users\zara\Documents\programador\programador\obj\Debug\programador.csproj.CoreCompileInputs.cache
 C:\Users\zara\Documents\programador\programador\obj\Debug\programador.exe
 C:\Users\zara\Documents\programador\programador\obj\Debug\programador.pdb
-Z:\Projeto ED\programador\programador\obj\Debug\programador.sync.resources
 C:\Users\zara\Downloads\Projeto ED\programador\programador\bin\Debug\programador.exe.config
 C:\Users\zara\Downloads\Projeto ED\programador\programador\bin\Debug\programador.exe
 C:\Users\zara\Downloads\Projeto ED\programador\programador\bin\Debug\programador.pdb
